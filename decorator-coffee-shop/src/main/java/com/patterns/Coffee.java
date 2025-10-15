@@ -1,0 +1,6 @@
+package com.patterns;
+
+public interface Coffee{
+  double getCost();
+  String getDescription();
+}
